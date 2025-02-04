@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Luke!
 
 - I'm currently studying a Bachelor of **Mathematical and Computer Sciences** and a Bachelor of **Project Management** at the University of Adelaide.
-- As an aspiring software engineer, I am looking to make a meaningful impact!
+- As an aspiring software engineer, I am looking to make a meaningful impact that contributes to bettering our society.
 
 Feel free to reach out or connect with me on Linkedin. https://www.linkedin.com/in/luke-schaefer-0b5888234/
 
