@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 -🎓 I'm currently studying a Bachelor of **Mathematical and Computer Sciences** and a Bachelor of **Project Management** at the University of Adelaide.
+
 -💻 As an aspiring software engineer, I am looking to make a meaningful impact!
 
 ## 📫Reach Me
