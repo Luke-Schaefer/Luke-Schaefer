@@ -1,12 +1,10 @@
 ## Hi there 👋, I'm Luke!
 
-## 🚀 About Me
--🎓 I'm currently studying a Bachelor of **Mathematical and Computer Sciences** and a Bachelor of **Project Management** at the University of Adelaide.
+- I'm currently studying a Bachelor of **Mathematical and Computer Sciences** and a Bachelor of **Project Management** at the University of Adelaide.
+- As an aspiring software engineer, I am looking to make a meaningful impact!
 
--💻 As an aspiring software engineer, I am looking to make a meaningful impact!
+- Feel free to reach out to me or to connect with me on Linkedin.
 
-## 📫Reach Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/luke-schaefer-0b5888234/))
 <!--
 **Luke-Schaefer/Luke-Schaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
